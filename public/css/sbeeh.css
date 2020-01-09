@@ -1,0 +1,41 @@
+body
+{
+	background: rgba(220, 219, 33, 0.1) ! important;
+}
+
+.navbar
+{
+	background: rgba(220, 219, 33, 1) ! important;
+}
+
+.panel-heading
+{
+	background: rgba(220, 219, 33, 0.5) ! important;
+}
+
+.panel-body
+{
+	background: rgba(220, 219, 33, 0.1) ! important;
+}
+
+#networkCoverage
+{
+	background: white ! important;
+}
+
+#stockChart, #weightChart, #temperatureChart, #noiseChart, #hygrometryChart, #batteryLevelGauge
+{
+	background: white ! important;
+}
+
+.btn-info
+{
+	background: rgba(236, 141, 24, 0.8) ! important;
+	border-color: rgba(236, 141, 24, 0.8);
+}
+
+.btn-info:hover, .btn-info:active, .btn-info:focus
+{
+	background: rgba(236, 141, 24, 1) ! important;
+	border-color: rgba(236, 141, 24, 1);
+}
